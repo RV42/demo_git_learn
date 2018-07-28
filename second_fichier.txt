@@ -1,2 +1,3 @@
-ce fihier est le deuxième créé pour être git pushé dans github
+ce fihier est le deuxiÃ¨me crÃ©Ã© pour Ãªtre git pushÃ© dans github
 Essai second pour rattachement dans dossier repository
+je viens de modifier le fichier "second_fichier.txt" pour Ãªtre appelÃ© par ma machine
