@@ -1,3 +1,4 @@
 ce fihier est le deuxième créé pour être git pushé dans github
 Essai second pour rattachement dans dossier repository
 je viens de modifier le fichier "second_fichier.txt" pour être appelé par ma machine
+ceci est la modif ligne 4 dans second_fichier.txt
